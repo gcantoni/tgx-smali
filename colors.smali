@@ -1,6 +1,4 @@
-PATH: MOST COLORS ARE DEFINED IN org/thunderdog/challegram/j/a/f.smali ( OR g.smali ) 
-
-// STOCK COLORS //
+ // STOCK COLORS //
 
 ** GENERAL ACCENT **
 
