@@ -1,4 +1,4 @@
- // STOCK COLORS //
+// STOCK COLORS //
 
 ** GENERAL ACCENT **
 
